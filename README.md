@@ -18,10 +18,12 @@ SLACK_BOT_TOKEN=xoxb-...   # Bot User OAuth Token (from OAuth & Permissions)
 SLACK_APP_TOKEN=xapp-...   # App-Level Token (from Basic Information → App-Level Tokens)
 
 and then run the following commands
----
+--
 npm init -y
+
 npm install @slack/bolt dotenv
+
 npm install axios
 
 node index.js
----
+--
