@@ -15,6 +15,7 @@ if you want to use it for yourself for some reason...
 create a .env file in the project folder and add the following  lines:
 
 SLACK_BOT_TOKEN=xoxb-...   # Bot User OAuth Token (from OAuth & Permissions)
+
 SLACK_APP_TOKEN=xapp-...   # App-Level Token (from Basic Information → App-Level Tokens)
 
 and then run the following commands
