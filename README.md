@@ -4,9 +4,13 @@ if you want to try it go on the hackclub slack https://app.slack.com/client/E09V
 and do /epic-help on the hackclub slack to see my bot in action (that's what the programmers say right)
 
 Available Commands:
+
 /epic-ping - Check bot latency
+
 /epic-catfact - Get a cat fact
+
 /epic-joke - Get a random joke
+
 /epic-help - Get help
 
 
